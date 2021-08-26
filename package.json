@@ -1,0 +1,23 @@
+{
+  "name": "Example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sampurna-Bazaar/Example.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sampurna-Bazaar/Example/issues"
+  },
+  "homepage": "https://github.com/Sampurna-Bazaar/Example#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
